@@ -15,4 +15,5 @@ p {
     border-radius: .5rem;
     padding: .6rem;
     margin:  4px 16px;
+    word-wrap: break-word;
 }

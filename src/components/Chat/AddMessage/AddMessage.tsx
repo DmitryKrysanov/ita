@@ -33,7 +33,7 @@ class AddMessage extends Component<Props> {
     }
 
     private handleKeyPress = (event: { key: string; }): void => {
-        if (event.key === 'Enter' && this.state.text) {
+        if (event.key === 'Enter' && this.state.text.trim() !== '') {
             this.onSendButton()
         }
     }
