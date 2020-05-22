@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ita/static/css/main.28814f97.chunk.css",
+    "main.css": "/ita/static/css/main.33e9c12f.chunk.css",
     "main.js": "/ita/static/js/main.7869f6bd.chunk.js",
     "main.js.map": "/ita/static/js/main.7869f6bd.chunk.js.map",
     "runtime-main.js": "/ita/static/js/runtime-main.d8a1f3d6.js",
@@ -8,16 +8,16 @@
     "static/js/2.d700a70a.chunk.js": "/ita/static/js/2.d700a70a.chunk.js",
     "static/js/2.d700a70a.chunk.js.map": "/ita/static/js/2.d700a70a.chunk.js.map",
     "index.html": "/ita/index.html",
-    "precache-manifest.88161ea0e7caa8fe699496861cf89975.js": "/ita/precache-manifest.88161ea0e7caa8fe699496861cf89975.js",
+    "precache-manifest.109e765f871feae8917d06718d9c1e5f.js": "/ita/precache-manifest.109e765f871feae8917d06718d9c1e5f.js",
     "service-worker.js": "/ita/service-worker.js",
-    "static/css/main.28814f97.chunk.css.map": "/ita/static/css/main.28814f97.chunk.css.map",
+    "static/css/main.33e9c12f.chunk.css.map": "/ita/static/css/main.33e9c12f.chunk.css.map",
     "static/media/ava.jpg": "/ita/static/media/ava.d5f51047.jpg",
     "static/media/softserve.jpg": "/ita/static/media/softserve.87db0d46.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d8a1f3d6.js",
     "static/js/2.d700a70a.chunk.js",
-    "static/css/main.28814f97.chunk.css",
+    "static/css/main.33e9c12f.chunk.css",
     "static/js/main.7869f6bd.chunk.js"
   ]
 }
